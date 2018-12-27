@@ -14,5 +14,4 @@ public class ResultVOUtil{
         return null;
 
     }
-
 }
